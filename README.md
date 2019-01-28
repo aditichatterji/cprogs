@@ -1,1 +1,2 @@
 # cprogs
+Basic of git
